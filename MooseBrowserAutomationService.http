@@ -1,0 +1,6 @@
+@MooseBrowserAutomationService_HostAddress = http://localhost:5294
+
+GET {{MooseBrowserAutomationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
